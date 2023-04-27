@@ -28,4 +28,4 @@ Agreement Number 957402 (www.teamingai-project.eu).
 
 ## Outlook. 
 
-The current software prototype is an initial prototype of the wisdom engine and Navi reconstructors (NaviPy). Thus, some components lack an explicit documentation. This will be updated in the upcoming weeks.
+The current software prototype is an initial prototype of the wisdom engine and Navi reconstructors (NaviPy). Thus, some components lack an explicit documentation. These will be updated in the upcoming weeks.
