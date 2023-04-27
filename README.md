@@ -19,3 +19,9 @@ The code was designed in Python 3.7 and the libraries used therein can be found 
 ## Testing/Demo
 
 The interaction with an agent can be simulated via the testing files in the EStore directory. Thus, the running TStore can be updated (and thus also the EStore), the KG can be queried, and the initial/updated embeddings can be retrieved. As an example, we considered the insertion of to new people Max & Moritz and linked them to some existing publications as authors. However, these examples can be arbitrarily adjusted.
+
+## Acknowledgements. 
+
+This work is part of the TEAMING.AI project which receives
+funding in the European Commission’s Horizon 2020 Research Programme under Grant
+Agreement Number 957402 (www.teamingai-project.eu).
