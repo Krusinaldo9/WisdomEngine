@@ -25,3 +25,7 @@ The interaction with an agent can be simulated via the testing files in the ESto
 This work is part of the TEAMING.AI project which receives
 funding in the European Commission’s Horizon 2020 Research Programme under Grant
 Agreement Number 957402 (www.teamingai-project.eu).
+
+## Outlook. 
+
+The current software prototype is an initial prototype of the wisdom engine and Navi reconstructors (NaviPy). Thus, some components lack an explicit documentation. This will be updated in the upcoming weeks.
